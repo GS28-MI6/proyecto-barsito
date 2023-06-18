@@ -4,6 +4,7 @@ import NotFound from './paginas/NotFound';
 import Stats from './paginas/Stats';
 import Home from './paginas/Home';
 import Productos from './paginas/Productos';
+import Carta from "./paginas/Carta"
 import './App.css';
 
 const pages = {
